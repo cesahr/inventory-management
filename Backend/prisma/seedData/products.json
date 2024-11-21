@@ -1,0 +1,102 @@
+[
+  {
+    "productId": "1",
+    "name": "Boa Fleece Jacket 1",
+    "price": 456.04,
+    "rating": 2.25,
+    "stockQuantity": 124834,
+    "descriptions": "voluptatum ipsa iste eveniet est earum velit obcaecati architecto nihil in deleniti, laudantium labore ad blanditiis saepe. A impedit provident mollitia laudantium nemo aut ad repudiandae.",
+    "colors": ["negro", "azul", "verde"],
+    "sizes": ["S", "M", "L", "XL"]  
+  },
+  {
+    "productId": "2",
+    "name": "Boa Fleece Jacket 2",
+    "price": 899.05,
+    "rating": 3.56,
+    "stockQuantity": 799402,
+    "descriptions": "voluptatum ipsa iste eveniet est earum velit obcaecati architecto nihil in deleniti, laudantium labore ad blanditiis saepe. A impedit provident mollitia laudantium nemo aut ad repudiandae.",
+    "colors": ["negro", "azul", "verde"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "productId": "3",
+    "name": "Boa Fleece Jacket 3",
+    "price": 264.37,
+    "rating": 3.23,
+    "stockQuantity": 842192,
+    "descriptions": "voluptatum ipsa iste eveniet est earum velit obcaecati architecto nihil in deleniti, laudantium labore ad blanditiis saepe. A impedit provident mollitia laudantium nemo aut ad repudiandae.",
+    "colors": ["negro", "azul", "verde"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "productId": "4",
+    "name": "Boa Fleece Jacket 4",
+    "price": 555.93,
+    "rating": 4.09,
+    "stockQuantity": 236333,
+    "descriptions": "voluptatum ipsa iste eveniet est earum velit obcaecati architecto nihil in deleniti, laudantium labore ad blanditiis saepe. A impedit provident mollitia laudantium nemo aut ad repudiandae.",
+    "colors": ["negro", "azul", "verde"],
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "productId": "5",
+    "name": "Zapatillas 1",
+    "price": 82.62,
+    "rating": 4.8,
+    "stockQuantity": 601208,
+    "descriptions": "",
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "productId": "6",
+    "name": "Gorra 1",
+    "price": 435.44,
+    "rating": 0.27,
+    "stockQuantity": 124068,
+    "descriptions": "",
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "productId": "7",
+    "name": "Sombrero 1",
+    "price": 759.15,
+    "rating": 2.46,
+    "stockQuantity": 234525,
+    "descriptions": "",
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "productId": "8",
+    "name": "Cartera 1",
+    "price": 974.99,
+    "rating": 4.82,
+    "stockQuantity": 739009,
+    "descriptions": "",
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "productId": "9",
+    "name": "Hamatocaulis Moss",
+    "price": 639.9,
+    "rating": 1.17,
+    "stockQuantity": 754285,
+    "descriptions": "",
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "productId": "10",
+    "name": "Wax Myrtle",
+    "price": 62.95,
+    "rating": 4.6,
+    "stockQuantity": 205240,
+    "descriptions": "",
+    "colors": [],
+    "sizes": []
+  }
+]
